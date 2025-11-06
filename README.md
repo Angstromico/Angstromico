@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Dev Navigate](https://www.devnavigate.com/)
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
