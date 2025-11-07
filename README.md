@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **manuesteban1990@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189/](https://www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
