@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning**
 
-- 👨‍💻 All of my projects are available at [https://manuel-next-portfolio.netlify.app/](https://manuel-next-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://manuel-morales-brit-portfolio.netlify.app)
 
 - 💬 Ask me about **React, Vue, Astro, Laravel, PHP, ...**
 
