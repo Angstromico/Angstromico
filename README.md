@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain Emoji" width="25px" align="center" /> Exploring <strong>AI</strong> to create smarter user experiences 
+
 - 🤝 I’m looking for help with **Learning**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://manuel-morales-brit-portfolio.netlify.app)
