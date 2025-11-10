@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angstromico&show_icons=true&locale=en" alt="angstromico" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angstromico" alt="angstromico" /></p>
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
