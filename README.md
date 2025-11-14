@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angstromico" alt="angstromico" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angstromico" alt="angstromico" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angstromico" alt="angstromico" /></a> </p> -->
 
 - 🔭 I’m currently working on [Dev Navigate](https://www.devnavigate.com/)
 
