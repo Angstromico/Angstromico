@@ -50,7 +50,7 @@
 
 <p align="center">
   <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=angstromico&theme=tokyo-night&hide_border=true&area=true&custom_title=Amadei%20Contribution%20Graph"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=angstromico&theme=tokyo-night&hide_border=true&area=true&custom_title=Angstromico%20Contribution%20Graph"
         alt="Contribution Graph" width="98%" />
 </p>
 
