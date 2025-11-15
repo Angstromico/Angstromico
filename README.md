@@ -1,6 +1,10 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 
-<h1 align="center">Hi 👋, I'm Manuel Morales</h1>
+<div align="center">
+  <h1 align="center">Hi 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&color=00FF00&background=FFFFFF00&lines=Welcome+to+my+profile;My+name+is+Manuel+Morales;I+am+an+open+source+enthusiast&center=true"; alt="Typing SVG" />
+</div>
+
 <h3 align="center">A passionate web developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angstromico" alt="angstromico" /> </p>
