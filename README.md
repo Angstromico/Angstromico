@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [Dev Navigate](https://www.devnavigate.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and React native**
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
