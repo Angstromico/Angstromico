@@ -66,7 +66,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
 
   <!-- Frameworks / Libraries -->
