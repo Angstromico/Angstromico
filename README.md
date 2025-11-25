@@ -41,8 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/angstromico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/angstromico" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manuel esteban morales zuarez" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189" target="blank"><img align="center" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fmiddle%2F97-971470_linkedin-linkedin-social-media-icons-clipart.png&sp=1764031999T504948c3984c5383fd78d786932d316b7f4c3bff29ba9ba0d4580a5da884b126" alt="manuel esteban morales zuarez" height="30" width="40" /></a>
 <a href="mailto:manumaxidev@proton.me"><img align="center" src="https://cdn-icons-png.freepik.com/512/2250/2250206.png" alt='mail' height="30" width="40" /></a>
 </p>
 
