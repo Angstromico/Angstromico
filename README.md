@@ -46,9 +46,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Even this one, I use to see it -->
-<img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fsoyhorizonte.com%2Fwp-content%2Fuploads%2F2020%2F10%2FJS-by-SoyHorizonte.gif&sp=1764030940T1c27fb3faf8d079642039f4cc233fb380fe19bd622d4eacf07298e2224453e9d"/>
-
 <div align="center">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
