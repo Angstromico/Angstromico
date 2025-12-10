@@ -1,4 +1,6 @@
-![Matrix SVG](https://raw.githubusercontent.com/Angstromico/Angstromico/refs/heads/main/assets/matrix.gif)
+<div align="center" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/Angstromico/Angstromico/refs/heads/main/assets/matrix.gif" alt="Typing SVG" style="width: 100%;" />
+</div>
 
 <!-- I don't see my assets -->
 
@@ -140,4 +142,20 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px"/>
+  Let's Connect & Collaborate!
+</h1>
+
+<div align="center">
+  
+**Thanks for visiting my profile!** 
+
+If you find my work interesting, consider:
+- ⭐ **Starring** my repositories
+- 🤝 **Following** me for updates
+- 💬 **Reaching out** for collaboration opportunities
+
 </div>
