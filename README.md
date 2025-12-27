@@ -114,9 +114,12 @@
 
 <h2 align="center"><p>📈 Activity</p></h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angstromico&theme=tokyonight&hide_border=true" width="98%"/>
-</p>
+<!-- GitHub Streak -->
+<div align="center">
+  <a href="https://github.com/MrWhite4939">
+    <img src="https://nirzak-streak-stats.vercel.app?user=angstromico&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
+  </a>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angstromico&theme=tokyonight&hide_border=true" width="98%"/> 
