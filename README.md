@@ -21,6 +21,14 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
 </picture>
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Angstromico
+
+```typescript
+class FullStackDeveloper { name: string; role: string; location: string; expertise: string[]; constructor() { this.name = "Manuel (Angstromico)"; this.role = "Full Stack Developer"; this.location = "Carabobo, Venezuela 🇻🇪"; this.expertise = [ "Frontend Development (React, Vue, Next.js)", "Backend Development (Node.js, Express, NestJS)", "Database Design (PostgreSQL, MongoDB)", "API Development & Integration", "CI/CD & Cloud Deployment (Docker, AWS, Azure)" ]; } async buildApplications(): Promise<void> { while (true) { await this.designFrontend(); await this.implementBackend(); await this.integrateDatabase(); await this.deploy(); console.log("🚀 Another feature delivered successfully!"); } } getPhilosophy(): string { return "Code with clarity, scale with purpose, deliver with impact ⚡"; } // Mock methods to simulate workflow async designFrontend() { console.log("🎨 Designing UI..."); } async implementBackend() { console.log("🛠️ Implementing server logic..."); } async integrateDatabase() { console.log("🗄️ Connecting to database..."); } async deploy() { console.log("☁️ Deploying to the cloud..."); } } const dev = new FullStackDeveloper(); await dev.buildApplications();
+```
+
+<br clear="right"/>
+
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angstromico" alt="angstromico" /></a> </p> -->
 
 - 🔭 I’m currently working on [Dev Navigate](https://www.devnavigate.com/)
