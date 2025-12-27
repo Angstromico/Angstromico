@@ -24,7 +24,49 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Angstromico
 
 ```typescript
-class FullStackDeveloper { name: string; role: string; location: string; expertise: string[]; constructor() { this.name = "Manuel (Angstromico)"; this.role = "Full Stack Developer"; this.location = "Carabobo, Venezuela 🇻🇪"; this.expertise = [ "Frontend Development (React, Vue, Next.js)", "Backend Development (Node.js, Express, NestJS)", "Database Design (PostgreSQL, MongoDB)", "API Development & Integration", "CI/CD & Cloud Deployment (Docker, AWS, Azure)" ]; } async buildApplications(): Promise<void> { while (true) { await this.designFrontend(); await this.implementBackend(); await this.integrateDatabase(); await this.deploy(); console.log("🚀 Another feature delivered successfully!"); } } getPhilosophy(): string { return "Code with clarity, scale with purpose, deliver with impact ⚡"; } // Mock methods to simulate workflow async designFrontend() { console.log("🎨 Designing UI..."); } async implementBackend() { console.log("🛠️ Implementing server logic..."); } async integrateDatabase() { console.log("🗄️ Connecting to database..."); } async deploy() { console.log("☁️ Deploying to the cloud..."); } } const dev = new FullStackDeveloper(); await dev.buildApplications();
+class FullStackDeveloper {
+  name: string;
+  role: string;
+  location: string;
+  expertise: string[];
+
+  constructor() {
+    this.name = "Manuel (Angstromico)";
+    this.role = "Full Stack Developer";
+    this.location = "Carabobo, Venezuela 🇻🇪";
+    this.expertise = [
+      "Frontend Development (React, Vue, Next.js)",
+      "Backend Development (Node.js, Express, NestJS)",
+      "Database Design (PostgreSQL, MongoDB)",
+      "API Development & Integration",
+      "CI/CD & Cloud Deployment (Docker, AWS, Azure)"
+    ];
+  }
+
+  async buildApplications(): Promise<void> {
+    while (true) {
+      await this.designFrontend();
+      await this.implementBackend();
+      await this.integrateDatabase();
+      await this.deploy();
+      console.log("🚀 Another feature delivered successfully!");
+    }
+  }
+
+  getPhilosophy(): string {
+    return "Code with clarity, scale with purpose, deliver with impact ⚡";
+  }
+
+  // Mock methods to simulate workflow
+  async designFrontend() { console.log("🎨 Designing UI..."); }
+  async implementBackend() { console.log("🛠️ Implementing server logic..."); }
+  async integrateDatabase() { console.log("🗄️ Connecting to database..."); }
+  async deploy() { console.log("☁️ Deploying to the cloud..."); }
+}
+
+const dev = new FullStackDeveloper();
+await dev.buildApplications();
+
 ```
 
 <br clear="right"/>
