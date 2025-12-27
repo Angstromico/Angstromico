@@ -116,8 +116,8 @@
 
 <!-- GitHub Streak -->
 <div align="center">
-  <a href="https://github.com/MrWhite4939">
-    <img src="https://nirzak-streak-stats.vercel.app?user=angstromico&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
+  <a href="https://github.com/Angstromico">
+    <img src="https://nirzak-streak-stats.vercel.app?user=Angstromico&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
   </a>
 </div>
 
