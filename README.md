@@ -165,6 +165,7 @@ await dev.buildApplications();
 <h2 align="center"><p>📈 Activity</p></h2>
 
 <!-- GitHub Streak -->
+---
 <div align="center">
   <a href="https://github.com/Angstromico">
     <img src="https://nirzak-streak-stats.vercel.app?user=Angstromico&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
@@ -179,9 +180,9 @@ await dev.buildApplications();
   <img src="https://github-stats.vercel.app/api?username=Angstromico&showIcons=true&theme=tokyonight&hide_border=true&top_langs_count=10" width="98%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angstromico&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
-</p>
+<!-- Trophies -->
+[![trophy](https://stable-github-profile-trophy.vercel.app/?username=Angstromico&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
 <p align="center">
   <img
