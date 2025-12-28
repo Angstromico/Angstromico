@@ -172,7 +172,7 @@ await dev.buildApplications();
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angstromico&theme=tokyonight&hide_border=true" width="98%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angstromico&theme=tokyonight&hide_border=true" width="98%"/> 
 </p>
 
 <p align="center">
@@ -180,7 +180,7 @@ await dev.buildApplications();
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angstromico&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=angstromico&theme=tokyonight&no-frame=true&margin-w=3&margin-h=5&column=3" width="98%"/>
 </p>
 
 <p align="center">
