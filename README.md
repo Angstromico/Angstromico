@@ -182,6 +182,10 @@ await dev.buildApplications();
 
 <!-- Trophies -->
 [![trophy](https://stable-github-profile-trophy.vercel.app/?username=Angstromico&theme=onedark&&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ✍️ Quote for the day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 <p align="center">
