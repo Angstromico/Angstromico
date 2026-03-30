@@ -137,6 +137,8 @@ await dev.buildApplications();
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img width="12" />
 
   <!-- Cloud / DevOps -->
   <img width="12" />
