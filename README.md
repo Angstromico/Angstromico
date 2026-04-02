@@ -168,11 +168,15 @@ await dev.buildApplications();
 
 <!-- GitHub Streak -->
 ---
+
 <div align="center">
-  <a href="https://github.com/Angstromico">
-    <img src="https://nirzak-streak-stats.vercel.app?user=Angstromico&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=angstromico&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angstromico&theme=dark&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angstromico&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
