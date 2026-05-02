@@ -73,7 +73,7 @@ await dev.buildApplications();
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angstromico" alt="angstromico" /></a> </p> -->
 
-- 🔭 I’m currently working on [Supricom]([https://www.devnavigate.com/](https://supricom.com.ve/))
+- 🔭 I’m currently working on [Fibex Telecom](https://fibextelecom.net/)
 
 - 🌱 I’m currently learning **Python and React native**
 
