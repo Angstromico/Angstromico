@@ -75,7 +75,7 @@ await dev.buildApplications();
 
 - 🔭 I’m currently working on <a href="https://fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>
 
-- 🌱 I’m currently learning **Python and React native**
+- 🌱 I’m currently learning **Golang and Flutter**
 
 - 👯 I’m looking to collaborate on **Full stacks projects**
 
