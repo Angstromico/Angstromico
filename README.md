@@ -73,7 +73,7 @@ await dev.buildApplications();
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angstromico" alt="angstromico" /></a> </p> -->
 
-- 🔭 I’m currently working on [Fibex Telecom](https://fibextelecom.net/)
+- 🔭 I’m currently working on <a href="https://fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>
 
 - 🌱 I’m currently learning **Python and React native**
 
@@ -83,13 +83,13 @@ await dev.buildApplications();
 
 - 🤝 I’m looking for help with **Learning**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://manuel-morales-brit-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://manuel-morales-brit-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">Portfolio</a>
 
 - 💬 Ask me about **React, Vue, Astro, Laravel, PHP, ...**
 
 - 📫 How to reach me **manuesteban1990@gmail.com**
 
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189/)
+- 📄 Know about my experiences on <a href="https://www.linkedin.com/in/manuel-esteban-morales-zuarez-68573b189/" target="_blank" rel="noopener noreferrer">Linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
