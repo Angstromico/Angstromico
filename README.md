@@ -100,7 +100,7 @@ console.log(dev.philosophy());
   <img src="https://skillicons.dev/icons?i=bash,css,javascript,typescript,php,python,java,go" height="55" alt="Languages" />
 
   <h4>Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,angular,flutter" height="55" alt="Frontend tools" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nuxt,angular,flutter,next" height="55" alt="Frontend tools" />
 
   <h4>Backend</h4>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" height="55" alt="Backend tools" />
