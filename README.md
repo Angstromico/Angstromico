@@ -103,7 +103,7 @@ console.log(dev.philosophy());
   <img src="https://skillicons.dev/icons?i=react,vue,nuxt,angular,flutter,next,sass,tailwind" height="55" alt="Frontend tools" />
 
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel" height="55" alt="Backend tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,nestjs" height="55" alt="Backend tools" />
 
   <h4>Database, Cloud, and Workflow</h4>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,docker,linux,git,github,gitlab,postman" height="55" alt="Database cloud and workflow tools" />
