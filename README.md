@@ -97,7 +97,7 @@ console.log(dev.philosophy());
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=bash,css,javascript,typescript,php,python,java,go" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,css,javascript,typescript,php,python,java,go,powershell" height="55" alt="Languages" />
 
   <h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=react,vue,nuxt,angular,flutter,next,sass,tailwind" height="55" alt="Frontend tools" />
