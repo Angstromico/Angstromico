@@ -106,7 +106,7 @@ console.log(dev.philosophy());
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,laravel,nestjs,django" height="55" alt="Backend tools" />
 
   <h4>Database, Cloud, and Workflow</h4>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,docker,linux,git,github,gitlab,postman" height="55" alt="Database cloud and workflow tools" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,azure,docker,linux,git,github,gitlab,postman,vim" height="55" alt="Database cloud and workflow tools" />
 </div>
 
 ## Build Style
