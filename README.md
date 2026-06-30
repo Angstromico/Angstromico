@@ -60,7 +60,7 @@ class FullStackDeveloper {
   readonly name = "Manuel (Angstromico)";
   readonly location = "Carabobo, Venezuela";
   readonly currentCompany = "Fibex Telecom";
-  readonly learning = ["Kotlin", "Flutter"];
+  readonly learning = ["Kotlin", "Flutter", "Lua"];
 
   build(stack: Stack): string {
     const output = {
@@ -97,7 +97,7 @@ console.log(dev.philosophy());
 
 <div align="center">
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=bash,css,javascript,typescript,php,python,java,go,powershell,dart,kotlin" height="55" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=bash,css,javascript,typescript,php,python,java,go,powershell,dart,kotlin,lua" height="55" alt="Languages" />
 
   <h4>Frontend</h4>
   <img src="https://skillicons.dev/icons?i=react,vue,nuxt,angular,flutter,next,sass,tailwind" height="55" alt="Frontend tools" />
