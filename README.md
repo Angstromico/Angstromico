@@ -60,7 +60,7 @@ class FullStackDeveloper {
   readonly name = "Manuel (Angstromico)";
   readonly location = "Carabobo, Venezuela";
   readonly currentCompany = "Fibex Telecom";
-  readonly learning = ["Kotlin", "Flutter", "Lua", Zig];
+  readonly learning = ["Kotlin", "Flutter", "Lua", Zig, Svelte];s
 
   build(stack: Stack): string {
     const output = {
