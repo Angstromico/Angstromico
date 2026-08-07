@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Manuel Morales</h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF88&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+from+Venezuela;Building+clean%2C+scalable+web+experiences;Open+source+enthusiast;AI-curious+problem+solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF88&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+from+Venezuela;Building+clean%2C+scalable+web+experiences;Fibex+Telecom+corporate+GitHub%3A+mmorales-fibex;AI-curious+problem+solver" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,6 +16,9 @@
   </a>
   <a href="mailto:manumaxidev@proton.me">
     <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=ffffff" alt="Email" />
+  </a>
+  <a href="https://github.com/mmorales-fibex" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Fibex%20GitHub-mmorales--fibex-111111?style=for-the-badge&logo=github&logoColor=00FF88" alt="Fibex Telecom GitHub" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=angstromico&style=for-the-badge&color=00ff88" alt="Profile views" />
 </p>
@@ -60,6 +63,7 @@ class FullStackDeveloper {
   readonly name = "Manuel (Angstromico)";
   readonly location = "Carabobo, Venezuela";
   readonly currentCompany = "Fibex Telecom";
+  readonly corporateGithub = "https://github.com/mmorales-fibex";
   readonly learning = ["Kotlin", "Flutter", "Lua", "Zig", "Svelte"];
 
   build(stack: Stack): string {
@@ -86,6 +90,7 @@ console.log(dev.philosophy());
 ## Current Signal
 
 - Working on <a href="https://fibextelecom.net/" target="_blank" rel="noopener noreferrer">Fibex Telecom</a>
+- Corporate GitHub at Fibex Telecom: <a href="https://github.com/mmorales-fibex" target="_blank" rel="noopener noreferrer">@mmorales-fibex</a>
 - Learning **Golang** and **Flutter**
 - Exploring **AI** to create smarter user experiences
 - Open to collaborate on **full stack projects**
