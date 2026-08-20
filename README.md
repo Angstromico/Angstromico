@@ -54,7 +54,7 @@
 +------------------------------------------------------------------------+
 ```
 
-## About Angstromico
+## `> whoami`
 
 ```typescript
 type Stack = 'frontend' | 'backend' | 'database' | 'cloud' | 'ai'
