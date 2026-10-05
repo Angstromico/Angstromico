@@ -64,7 +64,7 @@ class FullStackDeveloper {
   readonly location = 'Carabobo, Venezuela'
   readonly currentCompany = 'Fibex Telecom'
   readonly corporateGithub = 'https://github.com/mmorales-fibex'
-  readonly learning = ['C#', 'Kotlin', 'Flutter', 'Lua', 'Zig', 'Svelte']
+  readonly learning = ['Rust']
 
   build(stack: Stack): string {
     const output = {
