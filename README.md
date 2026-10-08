@@ -64,7 +64,7 @@ class FullStackDeveloper {
   readonly location = 'Carabobo, Venezuela'
   readonly currentCompany = 'Fibex Telecom'
   readonly corporateGithub = 'https://github.com/mmorales-fibex'
-  readonly learning = ['Rust', 'Golang']
+  readonly learning = ['Rust', 'Golang', 'C#']
 
   build(stack: Stack): string {
     const output = {
